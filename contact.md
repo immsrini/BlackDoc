@@ -9,6 +9,6 @@ Personal Email: [mailmukundhan@gmail.com](mailto:mailmukundhan@gmail.com)
 
 Official Email: [msrinivasan@nvidia.com](mailto:msrinivasan@nvidia.com)
 
-IndiaAI Email: [organiser@indiaai.com](mailto:organiser@india.ai)
+<!-- IndiaAI Email: [organiser@indiaai.com](mailto:organiser@india.ai) -->
 
 Twitter: [@immsrini](https://twitter.com/immsrini)
