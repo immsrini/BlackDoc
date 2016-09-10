@@ -11,11 +11,11 @@ title: About
 2. Started my career as a Research Assistant at the MILE Lab, Indian Institute of Science (IISc), Bangalore.
 3. Co-founded and led a Deep Learning startup; [Market Learning Labs](http://marketlearning.io/) provided image recognition and language processing/understanding as a service for developers/enterprises. Result: Couldn't get enough traction & growth.
 4. Subsequently, worked my way around few startups.
-* Founded and organize the [IndiaAI](https://indiaai.github.io/) initiative: an open people platform that aggregates, advances and drives the adoption of Deep Learning and its derivatives. Greatly believe in the power of bring technology and people together.
-* An active volunteer and member of the [SIGHT](http://www.ieee.org/special_interest_group_on_humanitarian_technology.html) Assessment Committee at [IEEE](http://www.ieee.org/index.html).
-* I’m an ardent classical music (the Indian flavor) listener. Maharajapuram Santhanam is my favorite vocalists amongst others.  
-* I’m actively learning Yajurveda (यजुर्वेदः).
-* Currently, I work as a [Deep Learning Solutions Architect at NVIDIA Corporation](http://www.nvidia.com/object/deep-learning.html).
+5. Founded and organize the [IndiaAI](https://indiaai.github.io/) initiative: an open people platform that aggregates, advances and drives the adoption of Deep Learning and its derivatives. Greatly believe in the power of bring technology and people together.
+6. An active volunteer and member of the [SIGHT](http://www.ieee.org/special_interest_group_on_humanitarian_technology.html) Assessment Committee at [IEEE](http://www.ieee.org/index.html).
+7. I’m an ardent classical music (the Indian flavor) listener. Maharajapuram Santhanam is my favorite vocalists amongst others.  
+8. I’m actively learning Yajurveda (यजुर्वेदः).
+9. Currently, I work as a [Deep Learning Solutions Architect at NVIDIA Corporation](http://www.nvidia.com/object/deep-learning.html).
 
 Research interest: Deep Learning, Natural Language Understanding, and Cognitive Sciences.
 
