@@ -6,8 +6,6 @@ BlackDoc is a two-column [Jekyll](http://jekyllrb.com) theme that's ideal for we
 
 ## Contents
 
-- [Features](#features)
-- [Quick Start](#quick-start)
 - [Usage](#usage)
 - [Options](#options)
   - [Sidebar menu](#sidebar-menu)
@@ -19,39 +17,6 @@ BlackDoc is a two-column [Jekyll](http://jekyllrb.com) theme that's ideal for we
 - [License](#license)
 - [Thanks](#thanks)
 
-## Features
-
-* Now compatible with Jekyll 3.x
-* Two-column layout with scrolling sidebar content
-* Ideal for websites that require  master-detail view of content
-
-## Quick Start
-
-Download the zip file or clone the BlackDoc repo.
-
-```bash
-$ git clone git@github.com:karloespiritu/BlackDoc.git mysite
-$ cd mysite
-```
-Make sure you have Ruby 2.0.0 or higher installed.
-
-```bash
-$ ruby --version
-ruby 2.x.x
-```
-
-Install bundler and install dependencies.
-
-```bash
-$ gem install bundler
-$ bundle install
-```
-
-Build and run your BlackDoc site.
-
-```bash
-$ jekyll serve
-```
 
 ## Usage
 

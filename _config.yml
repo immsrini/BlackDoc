@@ -1,27 +1,30 @@
-# Plugins
-gems:             ['jekyll-paginate', 'jekyll-gist', 'jekyll-github-metadata']
-
 # Dependencies
-highlighter:      rouge
+markdown:         redcarpet
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
+# relative_permalinks: true
 
 # Setup
-title:            BlackDoc
-tagline:          Black Theme for Jekyll
-description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
+title:            Mukundhan Srinivasan
+tagline:          Studying life's engineering
+description:      "Another engineer's customary mustings on research, startup, code and life."
 url:              https://github.com/karloespiritu/blackdoc
 baseurl:          /
 
 author:
-  name:           'Karlo Espiritu'
-  url:            https://twitter.com/karloespiritu
+  name:           'Mukundhan Srinivasan'
+  url:            https://twitter.com/immsrini
 
 paginate:         5
 
 # Custom vars
-version:          1.0.1
+version:          1.0.0
 
 github:
-  repo:           https://github.com/karloespiritu/blackdoc
+  repo:           
+
+gems:
+- jekyll-gist
+- jekyll-paginate

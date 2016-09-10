@@ -170,8 +170,16 @@ tbody tr:nth-child(odd) th {
  * Sidebar
  *
  * Flexible banner for housing site name, intro, and "footer" content. Starts
- * out above content in mobile and later moves to the side with wider viewports.
+ * out above content in mobile and later moves to the side with wider viewports.b61924
  */
+
+/*#particles-js {
+  width: 100%;
+  height: 100%;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}*/
 
 .sidebar {
   text-align: center;
