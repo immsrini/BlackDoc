@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learnings from founding, growing, and organizing technical community meetups
+title: Learnings from founding, growing, and organizing technical communities
 comments: true
 ---
 
