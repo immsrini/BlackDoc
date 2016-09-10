@@ -6,7 +6,7 @@ comments: true
 
 This post is the second in the series of understanding deep learning. To come up to speed with the current discussion, read the [previous]() post.
 
-## Interpretations of representation learning
+#### Interpretations of representation learning
 Deep learning has established that feature selection and engineering is not always useful. What do we replace future engineering with, in a representation learning framework? The objective is to learn a hierarchy of features which takes the output from the previous level as its input. The input to the next consequent level is the output of the previous level. Traditional algorithms like SVM and regressions are considered as "shallow" representations since these methods directly carry out classification from input data and do not have intermediate layers. This is where this type of representation learning gets its name "deep."
 
 So how do we interpret this framework? There exists two main type of understanding the performance of this architecture viz.:
