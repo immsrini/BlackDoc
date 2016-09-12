@@ -17,10 +17,21 @@ title: About
 8. I’m actively learning Yajurveda (यजुर्वेदः).
 9. Currently, I work as a [Deep Learning Solutions Architect at NVIDIA Corporation](http://www.nvidia.com/object/deep-learning.html).
 
-Research interest: Deep Learning, Natural Language Understanding, and Cognitive Sciences.
+Research interest: Deep Learning, Natural Language Modeling & Understanding, and Cognitive Sciences.
 
-Research Statement: Understand the mechanism by which the brain translates environmental signals into intelligent behavior. I’m inquisitive about the working of our brain, its cognitive architecture and would like to build applications using artificial intelligence that mimic the nous. I’m particularly interested in Machine/Deep Learning and its applications. Theoretical aspects of Statistics like probability modeling and large scale statistical estimation problems intrigue me.
+Research Statement: 
 
+- Understand the principles of intelligence through learning. 
+- How do we represent knowledge to a machine to supplement intelligence? 
+- How do we augment learning by using priors and techniques used for optimization/search? 
+- How can good representations be defined, generated and qualified? 
+- Correlating representations inspired by the visual and auditory cortex. 
+- How do we learn new tasks from very few examples and model a similar learning mode for machines? 
+- How can we play around with different architectures that'll in turn make the optimization much easier? 
+- How can a machine reason with incremental facts being added? 
+- Child developement: Agency, temporal understanding. 
+
+<!-- Understand the mechanism by which the brain translates environmental signals into intelligent behavior. I’m inquisitive about the working of our brain, its cognitive architecture and would like to build applications using artificial intelligence that mimic the nous. I’m particularly interested in Machine/Deep Learning and its applications. Theoretical aspects of Statistics like probability modeling and large scale statistical estimation problems intrigue me. -->
 <!-- <div align="center">
 <a href="http://india.ai/"><img src="/public/images/indiaai.png" width="300"></a>
 <a href="http://marketlearning.io/"><img src="/public/images/marketlearning.png" width="400"></a> 
