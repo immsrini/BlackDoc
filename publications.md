@@ -12,6 +12,7 @@ title: Publications
 
 Conference Papers
 
+- Deepak Babu Sam; Neeraj Sajjan; Venkatesh Babu Radhakrishnan; *Srinivasan, M.;* "Divide and Grow: Capturing Huge Diversity in Crowd Images with Incrementally Growing CNN,” Computer Vision & Pattern Recognition (CVPR’18), Salt lake City, USA. 
 - *Srinivasan, M.;* "Using Bayesian Statistics and Gabor Wavelets for Recognition of Human Faces: A Markov Random Field Framework,” The Eighth International Conference on Advances in Pattern Recognition (ICAPR’15), Kolkata, India. 
 - *Srinivasan, M.;*. and Harshitha, P.V.; “Towards Better Veracity For Breast Cancer Detection Using Gabor Wavelets Analysis And Statistical Markov Model,” The 13th International Conference on Control, Automation, Robotics and Vision, (ICARCV’14), Singapore.
 - Vijayaraghavan V.; *Srinivasan, M.;* Boopathi K.; and Kanagavel P.; “Wind Profile Modelling Using Statistical Analysis Of Weibull Distribution: An Indian Perspective,” The Eighth Asia-Pacific Conference on Wind Engineering (APCWE- VIII), Chennai, India.
